@@ -1,0 +1,587 @@
+HSET user:john.doe@example.com nome John sobrenome Doe
+HSET user:jane.smith@example.com nome Jane sobrenome Smith
+HSET user:michael.johnson@example.com nome Michael sobrenome Johnson
+HSET user:emily.williams@example.com nome Emily sobrenome Williams
+HSET user:william.brown@example.com nome William sobrenome Brown
+HSET user:olivia.jones@example.com nome Olivia sobrenome Jones
+HSET user:james.davis@example.com nome James sobrenome Davis
+HSET user:ava.miller@example.com nome Ava sobrenome Miller
+HSET user:benjamin.wilson@example.com nome Benjamin sobrenome Wilson
+HSET user:emma.anderson@example.com nome Emma sobrenome Anderson
+HSET user:daniel.martinez@example.com nome Daniel sobrenome Martinez
+HSET user:sophia.taylor@example.com nome Sophia sobrenome Taylor
+HSET user:joseph.clark@example.com nome Joseph sobrenome Clark
+HSET user:mia.lewis@example.com nome Mia sobrenome Lewis
+HSET user:christopher.rodriguez@example.com nome Christopher sobrenome Rodriguez
+HSET user:abigail.lee@example.com nome Abigail sobrenome Lee
+HSET user:matthew.thompson@example.com nome Matthew sobrenome Thompson
+HSET user:elizabeth.hall@example.com nome Elizabeth sobrenome Hall
+HSET user:andrew.allen@example.com nome Andrew sobrenome Allen
+HSET user:harper.young@example.com nome Harper sobrenome Young
+HSET user:david.hernandez@example.com nome David sobrenome Hernandez
+HSET user:charlotte.moore@example.com nome Charlotte sobrenome Moore
+HSET user:samuel.nelson@example.com nome Samuel sobrenome Nelson
+HSET user:grace.adams@example.com nome Grace sobrenome Adams
+HSET user:ryan.hill@example.com nome Ryan sobrenome Hill
+HSET user:scarlett.mitchell@example.com nome Scarlett sobrenome Mitchell
+HSET user:nathan.roberts@example.com nome Nathan sobrenome Roberts
+HSET user:chloe.turner@example.com nome Chloe sobrenome Turner
+HSET user:owen.phillips@example.com nome Owen sobrenome Phillips
+HSET user:lily.campbell@example.com nome Lily sobrenome Campbell
+HSET user:henry.parker@example.com nome Henry sobrenome Parker
+HSET user:amelia.evans@example.com nome Amelia sobrenome Evans
+HSET user:isaac.edwards@example.com nome Isaac sobrenome Edwards
+HSET user:evelyn.collins@example.com nome Evelyn sobrenome Collins
+HSET user:jack.stewart@example.com nome Jack sobrenome Stewart
+HSET user:victoria.sanchez@example.com nome Victoria sobrenome Sanchez
+HSET user:gabriel.morris@example.com nome Gabriel sobrenome Morris
+HSET user:madison.rogers@example.com nome Madison sobrenome Rogers
+HSET user:ethan.reed@example.com nome Ethan sobrenome Reed
+HSET user:penelope.price@example.com nome Penelope sobrenome Price
+HSET user:samuel.coleman@example.com nome Samuel sobrenome Coleman
+HSET user:avery.cook@example.com nome Avery sobrenome Cook
+HSET user:benjamin.bell@example.com nome Benjamin sobrenome Bell
+HSET user:harper.hughes@example.com nome Harper sobrenome Hughes
+HSET user:joseph.flores@example.com nome Joseph sobrenome Flores
+HSET user:amelia.simmons@example.com nome Amelia sobrenome Simmons
+HSET user:daniel.perry@example.com nome Daniel sobrenome Perry
+HSET user:sofia.long@example.com nome Sofia sobrenome Long
+HSET user:matthew.patterson@example.com nome Matthew sobrenome Patterson
+HSET user:emily.jenkins@example.com nome Emily sobrenome Jenkins
+HSET user:alexander.ramirez@example.com nome Alexander sobrenome Ramirez
+HSET user:grace.cox@example.com nome Grace sobrenome Cox
+HSET user:james.green@example.com nome James sobrenome Green
+HSET user:luna.murphy@example.com nome Luna sobrenome Murphy
+HSET user:christopher.rivera@example.com nome Christopher sobrenome Rivera
+HSET user:ella.howard@example.com nome Ella sobrenome Howard
+HSET user:logan.foster@example.com nome Logan sobrenome Foster
+HSET user:avery.russell@example.com nome Avery sobrenome Russell
+HSET user:samuel.ward@example.com nome Samuel sobrenome Ward
+HSET user:scarlett.coleman@example.com nome Scarlett sobrenome Coleman
+HSET user:isaac.henderson@example.com nome Isaac sobrenome Henderson
+HSET user:elizabeth.olson@example.com nome Elizabeth sobrenome Olson
+HSET user:william.ford@example.com nome William sobrenome Ford
+HSET user:victoria.banks@example.com nome Victoria sobrenome Banks
+HSET user:michael.mason@example.com nome Michael sobrenome Mason
+HSET user:abigail.cooper@example.com nome Abigail sobrenome Cooper
+HSET user:alexander.griffin@example.com nome Alexander sobrenome Griffin
+HSET user:penelope.watson@example.com nome Penelope sobrenome Watson
+HSET user:david.brooks@example.com nome David sobrenome Brooks
+HSET user:harper.kelly@example.com nome Harper sobrenome Kelly
+HSET user:henry.simpson@example.com nome Henry sobrenome Simpson
+HSET user:sofia.ellis@example.com nome Sofia sobrenome Ellis
+HSET user:benjamin.barnes@example.com nome Benjamin sobrenome Barnes
+HSET user:lily.wright@example.com nome Lily sobrenome Wright
+HSET user:samuel.powell@example.com nome Samuel sobrenome Powell
+HSET user:grace.ward@example.com nome Grace sobrenome Ward
+HSET user:daniel.cooper@example.com nome Daniel sobrenome Cooper
+HSET user:ava.wood@example.com nome Ava sobrenome Wood
+HSET user:joseph.myers@example.com nome Joseph sobrenome Myers
+HSET user:amelia.simmons@example.com nome Amelia sobrenome Simmons
+HSET user:christopher.peterson@example.com nome Christopher sobrenome Peterson
+HSET user:mia.bell@example.com nome Mia sobrenome Bell
+HSET user:alexander.sanchez@example.com nome Alexander sobrenome Sanchez
+HSET user:elizabeth.richardson@example.com nome Elizabeth sobrenome Richardson
+HSET user:logan.price@example.com nome Logan sobrenome Price
+HSET user:chloe.cox@example.com nome Chloe sobrenome Cox
+HSET user:samuel.ramirez@example.com nome Samuel sobrenome Ramirez
+HSET user:scarlett.watson@example.com nome Scarlett sobrenome Watson
+HSET user:matthew.long@example.com nome Matthew sobrenome Long
+
+HSET item-cardapio:1 nome Feijoada
+HSET item-cardapio:2 nome Brigadeiro
+HSET item-cardapio:3 nome Acarajé
+HSET item-cardapio:4 nome "Pão de Queijo"
+HSET item-cardapio:5 nome Moqueca
+HSET item-cardapio:6 nome Coxinha
+HSET item-cardapio:7 nome Açaí
+HSET item-cardapio:8 nome Picanha
+HSET item-cardapio:9 nome Quindim
+HSET item-cardapio:10 nome "Empadão de Chuchu"
+HSET item-cardapio:11 nome "Buchada de Bode"
+HSET item-cardapio:12 nome "Pastel de Feira"
+HSET item-cardapio:13 nome "Baião de Dois"
+HSET item-cardapio:14 nome "Cuscuz Nordestino Vegetariano"
+HSET item-cardapio:15 nome "Canjica Vegana"
+
+EXPIRE item-cardapio:1 10800
+EXPIRE item-cardapio:2 10800
+EXPIRE item-cardapio:3 10800
+EXPIRE item-cardapio:4 10800
+EXPIRE item-cardapio:5 10800
+EXPIRE item-cardapio:6 10800
+EXPIRE item-cardapio:7 10800
+EXPIRE item-cardapio:8 10800
+EXPIRE item-cardapio:9 10800
+EXPIRE item-cardapio:10 10800
+EXPIRE item-cardapio:11 10800
+EXPIRE item-cardapio:12 10800
+EXPIRE item-cardapio:13 10800
+EXPIRE item-cardapio:14 10800
+EXPIRE item-cardapio:15 10800
+
+ZADD categoryindex 0 1
+ZADD categoryindex 0 2
+ZADD categoryindex 0 3
+ZADD categoryindex 0 4
+ZADD categoryindex 0 5
+ZADD categoryindex 0 6
+ZADD categoryindex 0 7
+ZADD categoryindex 0 8
+ZADD categoryindex 0 9
+ZADD categoryindex 1 10
+ZADD categoryindex 0 11
+ZADD categoryindex 0 12
+ZADD categoryindex 0 13
+ZADD categoryindex 1 14
+ZADD categoryindex 1 15
+
+EXPIRE categoryindex 10800
+
+SADD item-cardapio:4:valid-item-votes john.doe@example.com
+SADD user:john.doe@example.com:valid-voted-items 4
+SADD item-cardapio:12:valid-item-votes john.doe@example.com
+SADD user:john.doe@example.com:valid-voted-items 12
+SADD item-cardapio:2:valid-item-votes john.doe@example.com
+SADD user:john.doe@example.com:valid-voted-items 2
+
+SADD item-cardapio:8:valid-item-votes jane.smith@example.com
+SADD user:jane.smith@example.com:valid-voted-items 8
+SADD item-cardapio:10:valid-item-votes jane.smith@example.com
+SADD user:jane.smith@example.com:valid-voted-items 10
+
+SADD item-cardapio:1:valid-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:valid-voted-items 1
+SADD item-cardapio:4:valid-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:valid-voted-items 4
+SADD item-cardapio:6:valid-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:valid-voted-items 6
+SADD item-cardapio:9:valid-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:valid-voted-items 9
+
+SADD item-cardapio:3:valid-item-votes emily.williams@example.com
+SADD user:emily.williams@example.com:valid-voted-items 3
+SADD item-cardapio:11:valid-item-votes emily.williams@example.com
+SADD user:emily.williams@example.com:valid-voted-items 11
+SADD item-cardapio:12:valid-item-votes emily.williams@example.com
+SADD user:emily.williams@example.com:valid-voted-items 12
+
+SADD item-cardapio:5:valid-item-votes william.brown@example.com
+SADD user:william.brown@example.com:valid-voted-items 5
+SADD item-cardapio:7:valid-item-votes william.brown@example.com
+SADD user:william.brown@example.com:valid-voted-items 7
+SADD item-cardapio:9:valid-item-votes william.brown@example.com
+SADD user:william.brown@example.com:valid-voted-items 9
+SADD item-cardapio:10:valid-item-votes william.brown@example.com
+SADD user:william.brown@example.com:valid-voted-items 10
+
+SADD item-cardapio:1:valid-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:valid-voted-items 1
+SADD item-cardapio:2:valid-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:valid-voted-items 2
+SADD item-cardapio:5:valid-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:valid-voted-items 5
+SADD item-cardapio:10:valid-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:valid-voted-items 10
+SADD item-cardapio:12:valid-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:valid-voted-items 12
+
+SADD item-cardapio:2:valid-item-votes james.davis@example.com
+SADD user:james.davis@example.com:valid-voted-items 2
+SADD item-cardapio:4:valid-item-votes james.davis@example.com
+SADD user:james.davis@example.com:valid-voted-items 4
+SADD item-cardapio:6:valid-item-votes james.davis@example.com
+SADD user:james.davis@example.com:valid-voted-items 6
+
+SADD item-cardapio:2:valid-item-votes ava.miller@example.com
+SADD user:ava.miller@example.com:valid-voted-items 2
+SADD item-cardapio:7:valid-item-votes ava.miller@example.com
+SADD user:ava.miller@example.com:valid-voted-items 7
+
+SADD item-cardapio:3:valid-item-votes benjamin.wilson@example.com
+SADD user:benjamin.wilson@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes benjamin.wilson@example.com
+SADD user:benjamin.wilson@example.com:valid-voted-items 5
+
+SADD item-cardapio:1:valid-item-votes emma.anderson@example.com
+SADD user:emma.anderson@example.com:valid-voted-items 1
+SADD item-cardapio:3:valid-item-votes emma.anderson@example.com
+SADD user:emma.anderson@example.com:valid-voted-items 3
+SADD item-cardapio:8:valid-item-votes emma.anderson@example.com
+SADD user:emma.anderson@example.com:valid-voted-items 8
+SADD item-cardapio:9:valid-item-votes emma.anderson@example.com
+SADD user:emma.anderson@example.com:valid-voted-items 9
+SADD item-cardapio:13:valid-item-votes emma.anderson@example.com
+SADD user:emma.anderson@example.com:valid-voted-items 13
+
+SADD item-cardapio:1:valid-item-votes daniel.martinez@example.com
+SADD user:daniel.martinez@example.com:valid-voted-items 1
+SADD item-cardapio:4:valid-item-votes daniel.martinez@example.com
+SADD user:daniel.martinez@example.com:valid-voted-items 4
+SADD item-cardapio:6:valid-item-votes daniel.martinez@example.com
+SADD user:daniel.martinez@example.com:valid-voted-items 6
+SADD item-cardapio:8:valid-item-votes daniel.martinez@example.com
+SADD user:daniel.martinez@example.com:valid-voted-items 8
+SADD item-cardapio:12:valid-item-votes daniel.martinez@example.com
+SADD user:daniel.martinez@example.com:valid-voted-items 12
+
+SADD item-cardapio:1:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 1
+SADD item-cardapio:2:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 2
+SADD item-cardapio:4:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 4
+SADD item-cardapio:6:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 6
+SADD item-cardapio:11:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 11
+SADD item-cardapio:13:valid-item-votes sophia.taylor@example.com
+SADD user:sophia.taylor@example.com:valid-voted-items 13
+
+SADD item-cardapio:2:valid-item-votes joseph.clark@example.com
+SADD user:joseph.clark@example.com:valid-voted-items 2
+SADD item-cardapio:4:valid-item-votes joseph.clark@example.com
+SADD user:joseph.clark@example.com:valid-voted-items 4
+SADD item-cardapio:9:valid-item-votes joseph.clark@example.com
+SADD user:joseph.clark@example.com:valid-voted-items 9
+SADD item-cardapio:10:valid-item-votes joseph.clark@example.com
+SADD user:joseph.clark@example.com:valid-voted-items 10
+
+SADD item-cardapio:5:valid-item-votes mia.lewis@example.com
+SADD user:mia.lewis@example.com:valid-voted-items 5
+SADD item-cardapio:7:valid-item-votes mia.lewis@example.com
+SADD user:mia.lewis@example.com:valid-voted-items 7
+SADD item-cardapio:8:valid-item-votes mia.lewis@example.com
+SADD user:mia.lewis@example.com:valid-voted-items 8
+
+SADD item-cardapio:1:valid-item-votes christopher.rodriguez@example.com
+SADD user:christopher.rodriguez@example.com:valid-voted-items 1
+SADD item-cardapio:3:valid-item-votes christopher.rodriguez@example.com
+SADD user:christopher.rodriguez@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes christopher.rodriguez@example.com
+SADD user:christopher.rodriguez@example.com:valid-voted-items 5
+SADD item-cardapio:9:valid-item-votes christopher.rodriguez@example.com
+SADD user:christopher.rodriguez@example.com:valid-voted-items 9
+
+SADD item-cardapio:1:valid-item-votes abigail.lee@example.com
+SADD user:abigail.lee@example.com:valid-voted-items 1
+SADD item-cardapio:2:valid-item-votes abigail.lee@example.com
+SADD user:abigail.lee@example.com:valid-voted-items 2
+SADD item-cardapio:7:valid-item-votes abigail.lee@example.com
+SADD user:abigail.lee@example.com:valid-voted-items 7
+SADD item-cardapio:10:valid-item-votes abigail.lee@example.com
+SADD user:abigail.lee@example.com:valid-voted-items 10
+
+SADD item-cardapio:3:valid-item-votes matthew.thompson@example.com
+SADD user:matthew.thompson@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes matthew.thompson@example.com
+SADD user:matthew.thompson@example.com:valid-voted-items 5
+
+SADD item-cardapio:2:valid-item-votes elizabeth.hall@example.com
+SADD user:elizabeth.hall@example.com:valid-voted-items 2
+SADD item-cardapio:4:valid-item-votes elizabeth.hall@example.com
+SADD user:elizabeth.hall@example.com:valid-voted-items 4
+SADD item-cardapio:9:valid-item-votes elizabeth.hall@example.com
+SADD user:elizabeth.hall@example.com:valid-voted-items 9
+SADD item-cardapio:13:valid-item-votes elizabeth.hall@example.com
+SADD user:elizabeth.hall@example.com:valid-voted-items 13
+
+SADD item-cardapio:2:valid-item-votes andrew.allen@example.com
+SADD user:andrew.allen@example.com:valid-voted-items 2
+SADD item-cardapio:6:valid-item-votes andrew.allen@example.com
+SADD user:andrew.allen@example.com:valid-voted-items 6
+SADD item-cardapio:7:valid-item-votes andrew.allen@example.com
+SADD user:andrew.allen@example.com:valid-voted-items 7
+SADD item-cardapio:11:valid-item-votes andrew.allen@example.com
+SADD user:andrew.allen@example.com:valid-voted-items 11
+
+SADD item-cardapio:3:valid-item-votes harper.young@example.com
+SADD user:harper.young@example.com:valid-voted-items 3
+SADD item-cardapio:8:valid-item-votes harper.young@example.com
+SADD user:harper.young@example.com:valid-voted-items 8
+
+SADD item-cardapio:1:valid-item-votes david.hernandez@example.com
+SADD user:david.hernandez@example.com:valid-voted-items 1
+SADD item-cardapio:4:valid-item-votes david.hernandez@example.com
+SADD user:david.hernandez@example.com:valid-voted-items 4
+SADD item-cardapio:6:valid-item-votes david.hernandez@example.com
+SADD user:david.hernandez@example.com:valid-voted-items 6
+SADD item-cardapio:8:valid-item-votes david.hernandez@example.com
+SADD user:david.hernandez@example.com:valid-voted-items 8
+SADD item-cardapio:12:valid-item-votes david.hernandez@example.com
+SADD user:david.hernandez@example.com:valid-voted-items 12
+
+SADD item-cardapio:3:valid-item-votes charlotte.moore@example.com
+SADD user:charlotte.moore@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes charlotte.moore@example.com
+SADD user:charlotte.moore@example.com:valid-voted-items 5
+SADD item-cardapio:6:valid-item-votes charlotte.moore@example.com
+SADD user:charlotte.moore@example.com:valid-voted-items 6
+SADD item-cardapio:9:valid-item-votes charlotte.moore@example.com
+SADD user:charlotte.moore@example.com:valid-voted-items 9
+
+SADD item-cardapio:1:valid-item-votes samuel.nelson@example.com
+SADD user:samuel.nelson@example.com:valid-voted-items 1
+SADD item-cardapio:2:valid-item-votes samuel.nelson@example.com
+SADD user:samuel.nelson@example.com:valid-voted-items 2
+SADD item-cardapio:5:valid-item-votes samuel.nelson@example.com
+SADD user:samuel.nelson@example.com:valid-voted-items 5
+SADD item-cardapio:8:valid-item-votes samuel.nelson@example.com
+SADD user:samuel.nelson@example.com:valid-voted-items 8
+SADD item-cardapio:11:valid-item-votes samuel.nelson@example.com
+SADD user:samuel.nelson@example.com:valid-voted-items 11
+
+SADD item-cardapio:3:valid-item-votes grace.adams@example.com
+SADD user:grace.adams@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes grace.adams@example.com
+SADD user:grace.adams@example.com:valid-voted-items 5
+SADD item-cardapio:9:valid-item-votes grace.adams@example.com
+SADD user:grace.adams@example.com:valid-voted-items 9
+
+SADD item-cardapio:1:valid-item-votes ryan.hill@example.com
+SADD user:ryan.hill@example.com:valid-voted-items 1
+SADD item-cardapio:2:valid-item-votes ryan.hill@example.com
+SADD user:ryan.hill@example.com:valid-voted-items 2
+SADD item-cardapio:3:valid-item-votes ryan.hill@example.com
+SADD user:ryan.hill@example.com:valid-voted-items 3
+SADD item-cardapio:5:valid-item-votes ryan.hill@example.com
+SADD user:ryan.hill@example.com:valid-voted-items 5
+SADD item-cardapio:11:valid-item-votes ryan.hill@example.com
+SADD user:ryan.hill@example.com:valid-voted-items 11
+
+EXPIRE item-cardapio:4:valid-item-votes 10800
+EXPIRE user:john.doe@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:12:valid-item-votes 10800
+EXPIRE user:john.doe@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:john.doe@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:jane.smith@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:10:valid-item-votes 10800
+EXPIRE user:jane.smith@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:michael.johnson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:4:valid-item-votes 10800
+EXPIRE user:michael.johnson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:6:valid-item-votes 10800
+EXPIRE user:michael.johnson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:9:valid-item-votes 10800
+EXPIRE user:michael.johnson@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:emily.williams@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:11:valid-item-votes 10800
+EXPIRE user:emily.williams@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:12:valid-item-votes 10800
+EXPIRE user:emily.williams@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:william.brown@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:7:valid-item-votes 10800
+EXPIRE user:william.brown@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:9:valid-item-votes 10800
+EXPIRE user:william.brown@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:10:valid-item-votes 10800
+EXPIRE user:william.brown@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:olivia.jones@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:olivia.jones@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:olivia.jones@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:10:valid-item-votes 10800
+EXPIRE user:olivia.jones@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:12:valid-item-votes 10800
+EXPIRE user:olivia.jones@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:james.davis@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:4:valid-item-votes 10800
+EXPIRE user:james.davis@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:6:valid-item-votes 10800
+EXPIRE user:james.davis@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:ava.miller@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:7:valid-item-votes 10800
+EXPIRE user:ava.miller@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:benjamin.wilson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:benjamin.wilson@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:emma.anderson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:emma.anderson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:emma.anderson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:9:valid-item-votes 10800
+EXPIRE user:emma.anderson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:13:valid-item-votes 10800
+EXPIRE user:emma.anderson@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:daniel.martinez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:4:valid-item-votes 10800
+EXPIRE user:daniel.martinez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:6:valid-item-votes 10800
+EXPIRE user:daniel.martinez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:daniel.martinez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:12:valid-item-votes 10800
+EXPIRE user:daniel.martinez@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:harper.young@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:harper.young@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:harper.young@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:david.hernandez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:4:valid-item-votes 10800
+EXPIRE user:david.hernandez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:6:valid-item-votes 10800
+EXPIRE user:david.hernandez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:david.hernandez@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:12:valid-item-votes 10800
+EXPIRE user:david.hernandez@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:charlotte.moore@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:charlotte.moore@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:6:valid-item-votes 10800
+EXPIRE user:charlotte.moore@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:9:valid-item-votes 10800
+EXPIRE user:charlotte.moore@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:samuel.nelson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:samuel.nelson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:samuel.nelson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:8:valid-item-votes 10800
+EXPIRE user:samuel.nelson@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:11:valid-item-votes 10800
+EXPIRE user:samuel.nelson@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:grace.adams@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:grace.adams@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:9:valid-item-votes 10800
+EXPIRE user:grace.adams@example.com:valid-voted-items 10800
+
+EXPIRE item-cardapio:1:valid-item-votes 10800
+EXPIRE user:ryan.hill@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:2:valid-item-votes 10800
+EXPIRE user:ryan.hill@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:3:valid-item-votes 10800
+EXPIRE user:ryan.hill@example.com:valid-voted-items 10800
+EXPIRE item-cardapio:5:valid-item-votes 10800
+EXPIRE user:ryan.hill@example.com:valid-voted-items 10800
+
+SADD item-cardapio:4:available-item-votes john.doe@example.com
+SADD user:john.doe@example.com:available-voted-items 4
+EXPIRE item-cardapio:4:available-item-votes 10800
+EXPIRE user:john.doe@example.com:available-voted-items 10800
+
+SADD item-cardapio:8:available-item-votes john.doe@example.com
+SADD user:john.doe@example.com:available-voted-items 8
+EXPIRE item-cardapio:8:available-item-votes 10800
+EXPIRE user:john.doe@example.com:available-voted-items 10800
+
+SADD item-cardapio:9:available-item-votes john.doe@example.com
+SADD user:john.doe@example.com:available-voted-items 9
+EXPIRE item-cardapio:9:available-item-votes 10800
+EXPIRE user:john.doe@example.com:available-voted-items 10800
+
+SADD item-cardapio:2:available-item-votes jane.smith@example.com
+SADD user:jane.smith@example.com:available-voted-items 2
+EXPIRE item-cardapio:2:available-item-votes 10800
+EXPIRE user:jane.smith@example.com:available-voted-items 10800
+
+SADD item-cardapio:7:available-item-votes jane.smith@example.com
+SADD user:jane.smith@example.com:available-voted-items 7
+EXPIRE item-cardapio:7:available-item-votes 10800
+EXPIRE user:jane.smith@example.com:available-voted-items 10800
+
+SADD item-cardapio:1:available-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:available-voted-items 1
+EXPIRE item-cardapio:1:available-item-votes 10800
+EXPIRE user:michael.johnson@example.com:available-voted-items 10800
+
+SADD item-cardapio:6:available-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:available-voted-items 6
+EXPIRE item-cardapio:6:available-item-votes 10800
+EXPIRE user:michael.johnson@example.com:available-voted-items 10800
+
+SADD item-cardapio:12:available-item-votes michael.johnson@example.com
+SADD user:michael.johnson@example.com:available-voted-items 12
+EXPIRE item-cardapio:12:available-item-votes 10800
+EXPIRE user:michael.johnson@example.com:available-voted-items 10800
+
+SADD item-cardapio:3:available-item-votes emily.williams@example.com
+SADD user:emily.williams@example.com:available-voted-items 3
+EXPIRE item-cardapio:3:available-item-votes 10800
+EXPIRE user:emily.williams@example.com:available-voted-items 10800
+
+SADD item-cardapio:11:available-item-votes emily.williams@example.com
+SADD user:emily.williams@example.com:available-voted-items 11
+EXPIRE item-cardapio:11:available-item-votes 10800
+EXPIRE user:emily.williams@example.com:available-voted-items 10800
+
+SADD item-cardapio:5:available-item-votes william.brown@example.com
+SADD user:william.brown@example.com:available-voted-items 5
+EXPIRE item-cardapio:5:available-item-votes 10800
+EXPIRE user:william.brown@example.com:available-voted-items 10800
+
+SADD item-cardapio:10:available-item-votes william.brown@example.com
+SADD user:william.brown@example.com:available-voted-items 10
+EXPIRE item-cardapio:10:available-item-votes 10800
+EXPIRE user:william.brown@example.com:available-voted-items 10800
+
+SADD item-cardapio:5:available-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:available-voted-items 5
+EXPIRE item-cardapio:5:available-item-votes 10800
+EXPIRE user:olivia.jones@example.com:available-voted-items 10800
+
+SADD item-cardapio:10:available-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:available-voted-items 10
+EXPIRE item-cardapio:10:available-item-votes 10800
+EXPIRE user:olivia.jones@example.com:available-voted-items 10800
+
+SADD item-cardapio:12:available-item-votes olivia.jones@example.com
+SADD user:olivia.jones@example.com:available-voted-items 12
+EXPIRE item-cardapio:12:available-item-votes 10800
+EXPIRE user:olivia.jones@example.com:available-voted-items 10800
+
+SADD item-cardapio:2:available-item-votes james.davis@example.com
+SADD user:james.davis@example.com:available-voted-items 2
+EXPIRE item-cardapio:2:available-item-votes 10800
+EXPIRE user:james.davis@example.com:available-voted-items 10800
+
+SADD item-cardapio:6:available-item-votes james.davis@example.com
+SADD user:james.davis@example.com:available-voted-items 6
+EXPIRE item-cardapio:6:available-item-votes 10800
+EXPIRE user:james.davis@example.com:available-voted-items 10800
+
+SADD item-cardapio:7:available-item-votes ava.miller@example.com
+SADD user:ava.miller@example.com:available-voted-items 7
+EXPIRE item-cardapio:7:available-item-votes 10800
+EXPIRE user:ava.miller@example.com:available-voted-items 10800
+
+SADD item-cardapio:3:available-item-votes benjamin.wilson@example.com
+SADD user:benjamin.wilson@example.com:available-voted-items 3
+EXPIRE item-cardapio:3:available-item-votes 10800
+EXPIRE user:benjamin.wilson@example.com:available-voted-items 10800
