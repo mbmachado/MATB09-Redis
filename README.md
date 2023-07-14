@@ -3,10 +3,7 @@
 ## Como carregar os arquivos do banco
 
 1. [Baixar e instalar o Redis](https://redis.io/download/)
-2. [Baixar o arquivo **dump.rdb**](dump.rdb)
-3. Pela linha de comando, inicializar o **redis-cli**
-4. Após iniciar (redis-cli), usar o comando **CONFIG GET dir** para obter o caminho do diretório configurado para o Redis
-5. Ir no diretório retornado pelo comando anterior
-6. [Parar o serviço do servidor do Redis](https://tableplus.com/blog/2018/10/how-to-start-stop-restart-redis.html)
-7. Copiar o [arquivo **dump.rdb**](dump.rdb) baixado anteriormente para este diretório
-8. [Iniciar o serviço do servidor do Redis](https://tableplus.com/blog/2018/10/how-to-start-stop-restart-redis.html)
+2. [Baixar o arquivo **seed.txt**](seed.txt)
+3. Abrir o terminal
+4. Usar o comando **cat seed.txt | redis-cli --pipe**
+5. Ainda no terminal, inicializar o redis-cli e consultar os daods
